@@ -5,18 +5,18 @@
 
 body{
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #363636;
 }
 
 header{
-    background-color: #370707;
+    background-color: #000000;
     color: white;
     text-align: center;
     padding: 1em;
 }
 
 footer{
-    background-color: #370707;
+    background-color: #202020;
     color: white;
     text-align: center;
     padding: 1em;
@@ -29,7 +29,7 @@ footer{
 
 .conteudo{
     width: 100% !important;
-    background-color: white !important;
+    background-color: rgb(97, 97, 97) !important;
     padding: 2em !important;
     margin-top: 1em !important;
     border-radius: 2em !important;
