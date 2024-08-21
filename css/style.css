@@ -23,15 +23,15 @@ footer{
 }
 
 .img-perfil{
-    width: 10%;
-    border-radius: 50%;
+    width: 9%;
+   border-radius: 50%;
 }
 
 .conteudo{
     width: 100% !important;
     background-color: rgb(97, 97, 97) !important;
-    padding: 2em !important;
-    margin-top: 1em !important;
+    padding: 1em !important;
+    margin-top: 2em !important;
     border-radius: 2em !important;
 }
 
@@ -50,11 +50,12 @@ footer{
 
 .txt-icone{
     font-size: 200% !important;
+    padding-top: 5%;
 }
 
 a{
     text-decoration: none !important;
-    color: black !important;
+    color: rgb(0, 0, 0) !important;
 }
 
 @media (min-width: 200px) and (max-width: 768px){
