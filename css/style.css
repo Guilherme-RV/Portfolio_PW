@@ -50,6 +50,11 @@ footer {
     
 }
 
+.img-icone-ic {
+    width: 150% !important;
+    
+}
+
 .txt-icone {
     font-size: 200% !important;
     padding-top: 5%;
